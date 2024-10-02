@@ -17,15 +17,15 @@ other alternatives besides the current solutions.
 
 ## 🔥 Important Things
 
-- **[Student Information](profile/readme.md)**: Access personal and academic information relevant to your student profile.
+- **[Student Information]()**: Access personal and academic information relevant to your student profile.
   
 - **[Course Information](./images/CI%20MCSD1043%20Sem220232024.pdf)**: Find detailed course content, schedules, and requirements for the current semester.
   
-- **[Assignment](./assignment)**: View and download current assignments, submission guidelines, and deadlines.
+- **[Assignment]()**: View and download current assignments, submission guidelines, and deadlines.
   
-- **[Exercise](./exercise)**: Engage with exercises designed to complement your coursework and enhance learning.
+- **[Exercise]()**: Engage with exercises designed to complement your coursework and enhance learning.
   
-- **[E-Learning UTM](https://elearning.utm.my/23242/index.php)**: Connect to the University's e-learning platform for course materials, discussions, and updates.
+- **[E-Learning UTM](https://elearning.utm.my/24251/index.php)**: Connect to the University's e-learning platform for course materials, discussions, and updates.
 
 
 ## Contribution 🛠️
