@@ -8,12 +8,7 @@
 # Special Topic Software Engineering
 
 ## Course Synopsis
-This course provides students with current issues related to software engineering in general
-and specifically in software development life cycle that includes planning, analysis, design,
-implementation, and maintenance. The key objective of this course is to equip the students with
-the knowledge in current issues mainly the research done to solve related problems. Based on
-the given topic in current research, the students should argue and think critically what could be
-other alternatives besides the current solutions.
+This course presents a top-down view of cloud computing, from applications and administration to programming and infrastructure. Its main focus is on parallel programming techniques for cloud computing and large scale distributed systems which form the cloud infrastructure. The topics include: overview of cloud computing, cloud systems, parallel processing in the cloud, distributed storage systems, virtualization, security in the cloud, and multicore operating systems. Students will study state-of-the-art solutions for cloud computing developed by Google, Amazon, Microsoft, Yahoo, VMWare, etc. Students will also apply what they learn in one programming assignment and one project executed over Amazon Web Services.
 
 ## 🔥 Important Things
 
