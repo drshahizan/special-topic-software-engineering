@@ -12,7 +12,7 @@ This course presents a top-down view of cloud computing, from applications and a
 
 ## 🔥 Important Things
 
-- **[Student Information]()**: Access personal and academic information relevant to your student profile.
+- **[Student Information]()**
   
 - **[Course Information](https://github.com/drshahizan/special-topic-software-engineering/blob/main/images/CI_SECJ3403_Special_Topic_SE-24251.pdf)**: Find detailed course content, schedules, and requirements for the current semester.
   
