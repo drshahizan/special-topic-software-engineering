@@ -20,7 +20,7 @@ This course presents a top-down view of cloud computing, from applications and a
   
 - **[Exercise]()**: Engage with exercises designed to complement your coursework and enhance learning.
   
-- **[AWS Academy Cloud Foundations](https://awsacademy.instructure.com/courses/97606)**: is a comprehensive course designed to provide students with a foundational understanding of cloud computing concepts, independent of specific technical roles. The curriculum covers essential topics such as cloud concepts, AWS core services, security, architecture, pricing, and support. It includes a mix of instructor-led sessions, video content, and hands-on labs to ensure practical learning. This program is ideal for those looking to gain a broad understanding of AWS Cloud and prepare for industry-recognized certifications, such as the AWS Certified Cloud Practitioner.
+- **[AWS Academy Cloud Foundations](https://awsacademy.instructure.com/courses/97605)**: is a comprehensive course designed to provide students with a foundational understanding of cloud computing concepts, independent of specific technical roles. The curriculum covers essential topics such as cloud concepts, AWS core services, security, architecture, pricing, and support. It includes a mix of instructor-led sessions, video content, and hands-on labs to ensure practical learning. This program is ideal for those looking to gain a broad understanding of AWS Cloud and prepare for industry-recognized certifications, such as the AWS Certified Cloud Practitioner.
 
 
 ## Contribution 🛠️
