@@ -22,3 +22,8 @@
 | **Week 11-12** | **Cloud Architecture**                                | Section 1: AWS Well-Architected Framework Design Principles<br>Section 2: Operational Excellence<br>Section 3: Security<br>Section 4: Reliability<br>Section 5: Performance Efficiency<br>Section 6: Cost Optimization<br>Section 7: Reliability & High Availability<br>Section 8: AWS Trusted Advisor |
 | **Week 13** | **Auto Scaling and Monitoring**                          | Section 1: AWS ELB (Elastic Load Balancing)<br>Section 2: Amazon CloudWatch<br>Section 3: Amazon EC2 Auto Scaling |
 
+## Contribution 🛠️
+Please create an [Issue](https://github.com/drshahizan/project-management/issues) for any improvements, suggestions or errors in the content.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
