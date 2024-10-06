@@ -20,8 +20,6 @@ This course presents a top-down view of cloud computing, from applications and a
   
 - **[AWS Academy Cloud Foundations](https://awsacademy.instructure.com/courses/97605)**: is a comprehensive course designed to provide students with a foundational understanding of cloud computing concepts, independent of specific technical roles. The curriculum covers essential topics such as cloud concepts, AWS core services, security, architecture, pricing, and support. It includes a mix of instructor-led sessions, video content, and hands-on labs to ensure practical learning. This program is ideal for those looking to gain a broad understanding of AWS Cloud and prepare for industry-recognized certifications, such as the AWS Certified Cloud Practitioner.
 
-- **[Student Information]()**
-
 ## Contribution 🛠️
 Please create an [Issue](https://github.com/drshahizan/project-management/issues) for any improvements, suggestions or errors in the content.
 
